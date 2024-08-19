@@ -1,7 +1,6 @@
 # java3
 AplikacjeOkienkowe
 
-
 0. Proste okienko
 -----------------
 
